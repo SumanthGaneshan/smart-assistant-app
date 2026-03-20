@@ -1,0 +1,104 @@
+{
+  "suggestions": [
+    {
+      "id": 1,
+      "title": "Summarize my notes",
+      "description": "Get a concise summary of your text"
+    },
+    {
+      "id": 2,
+      "title": "Generate email reply",
+      "description": "Create a professional email response"
+    },
+    {
+      "id": 3,
+      "title": "Write a Python script",
+      "description": "Automate your data cleanup process for weekly reports"
+    },
+    {
+      "id": 4,
+      "title": "Optimize my schedule",
+      "description": "Find the best time slots for your work sessions based on energy levels"
+    },
+    {
+      "id": 5,
+      "title": "Create a moodboard",
+      "description": "Curate visual inspiration for your upcoming project phase"
+    },
+    {
+      "id": 6,
+      "title": "Draft a cover letter",
+      "description": "Write a compelling cover letter tailored to the job description"
+    },
+    {
+      "id": 7,
+      "title": "Explain a concept",
+      "description": "Break down any complex topic into simple, easy to understand terms"
+    },
+    {
+      "id": 8,
+      "title": "Plan a trip itinerary",
+      "description": "Create a detailed day by day travel plan for your next trip"
+    },
+    {
+      "id": 9,
+      "title": "Review my code",
+      "description": "Get feedback on your code quality, structure and best practices"
+    },
+    {
+      "id": 10,
+      "title": "Generate social media post",
+      "description": "Create engaging content for Instagram, Twitter or LinkedIn"
+    },
+    {
+      "id": 11,
+      "title": "Translate text",
+      "description": "Accurately translate content between multiple languages"
+    },
+    {
+      "id": 12,
+      "title": "Write unit tests",
+      "description": "Generate test cases for your existing functions and classes"
+    },
+    {
+      "id": 13,
+      "title": "Analyze my data",
+      "description": "Get insights and patterns from your dataset or spreadsheet"
+    },
+    {
+      "id": 14,
+      "title": "Create a meal plan",
+      "description": "Plan healthy and balanced meals for the entire week"
+    },
+    {
+      "id": 15,
+      "title": "Write a blog post",
+      "description": "Generate a well structured article on any topic of your choice"
+    },
+    {
+      "id": 16,
+      "title": "Debug my error",
+      "description": "Identify the root cause and fix for your code error or exception"
+    },
+    {
+      "id": 17,
+      "title": "Prepare interview questions",
+      "description": "Generate relevant questions for your upcoming technical interview"
+    },
+    {
+      "id": 18,
+      "title": "Write a product description",
+      "description": "Create persuasive and SEO friendly product copy for your store"
+    },
+    {
+      "id": 19,
+      "title": "Suggest book recommendations",
+      "description": "Get curated book suggestions based on your interests and goals"
+    },
+    {
+      "id": 20,
+      "title": "Create a workout plan",
+      "description": "Design a personalized fitness routine based on your goals"
+    }
+  ]
+}

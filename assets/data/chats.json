@@ -1,0 +1,13 @@
+{
+  "mappings": [
+    {
+      "trigger": "flutter state management",
+      "reply": "Flutter state management helps you manage UI updates efficiently by tracking data changes."
+    },
+    {
+      "trigger": "bloc",
+      "reply": "BLoC (Business Logic Component) uses Streams to separate UI from logic."
+    }
+  ],
+  "default_reply": "I'm processing your request. Could you provide more details?"
+}
