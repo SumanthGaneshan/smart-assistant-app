@@ -134,7 +134,7 @@ Since no base URL was provided, all APIs are **mocked locally**:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/sumanthganeshan/smart-assistant-app.git
+git clone https://github.com/SumanthGaneshan/smart-assistant-app.git
 cd smart-assistant-app
 ```
 
